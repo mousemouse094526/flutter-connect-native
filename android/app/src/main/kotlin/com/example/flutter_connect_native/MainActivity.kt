@@ -21,7 +21,7 @@ class MainActivity: FlutterActivity(){
     }
 
     private fun getNativeData(): String {
-        return "BeLnwZa007"
+        return "Hello from Native"
     }
 }
  
